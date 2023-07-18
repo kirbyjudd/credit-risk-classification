@@ -33,7 +33,7 @@ Some of the methods used included creating a Logistic Regression model and using
 
 The initial Logistic Regression model had very nice-looking accuracy scores, however, the data was imbalanced as there were far more 0 (healthy loans) than there were 1 (high-risk loans). After resampling the data, we improved the Logistic Regression models recall for the high-risk loan and kept the high accuracy scores. I would recommend using the second resampled Logistic regression model, as it takes into account the imbalanced data and has a very accurate fit.
 
-## File Location
+## File Locations
 
 The main notebook is located in the "Credit_Risk" folder and is called 'credit_risk_classification.ipynb'.
 The report is also in the "Credit_Risk" folder and is called 'Module 12 Report.md'.
